@@ -1,0 +1,26 @@
+:root{
+    --color-blue-100: #6495ED;
+    --color-blue-200: #4169E1;
+    --color-blue-300: #1E90FF;
+    --color-blue-400: #0000FF;
+    --color-purple-100: #D8BFD8;
+    --color-purple-200: #DDA0DD;
+    --color-purple-300: #DA70D6;
+    --color-purple-400: #9932CC;
+    --color-purple-500: #8A2BE2;  
+
+    --color-gradiente: linear-gradient(150deg, var(--color-purple-100), var(--color-purple-200), var(--color-purple-300), var(--color-purple-400), var(--color-purple-500), var(--color-blue-100), var(--color-blue-200), var(--color-blue-300), var(--color-blue-400));
+    
+    --color-glow-red-100: #C0392B;
+    --color-glow-red-200: #943126;
+    --color-glow-yellow-100: #F7DC6F;
+    --color-glow-yellow-200: #F1C40F;
+    --color-glow-orange-100: #DC7633;
+    --color-glow-orange-200: #D35400;
+    --color-glow-green-100: #27AE60;
+    --color-glow-green-200: #1E8449;
+    --color-glow-blue-100: #5DADE2;
+    --color-glow-blue-200: #2E86C1;
+
+    --color-glow-gradiente: linear-gradient(90deg, var(--color-glow-red-100), var(--color-glow-red-200), var(--color-glow-yellow-100), var(--color-glow-yellow-200), var(--color-glow-orange-100), var(--color-glow-orange-200), var(--color-glow-green-100), var(--color-glow-green-200), var(--color-glow-blue-100), var(--color-glow-blue-200));
+}

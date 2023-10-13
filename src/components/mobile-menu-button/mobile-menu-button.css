@@ -1,0 +1,71 @@
+.mobile-menu-label .square{
+    width: 45px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    position: absolute;
+    right: 2%;
+    top: 30px;
+    display: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.mobile-menu-label .line{
+    width: 80%;
+    height: 1px;
+    background-color: var(--color-purple-500);
+    display: block;
+    position: absolute;
+    left: 4px;
+    top: 50%;
+    transition: 0.3s ease-in-out;
+}
+
+.mobile-menu-label .line::before{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    top: -7px;
+    background-color: var(--color-purple-500);
+    position: absolute;
+    transition: 0.3s ease-in-out;
+}
+
+.mobile-menu-label .line::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    top: 7px;
+    background-color: var(--color-purple-500);
+    position: absolute;
+    transition: 0.3s ease-in-out;
+}
+
+#mobile-menu-checkbox{
+    display: none;
+}
+
+#mobile-menu-checkbox:checked ~ .mobile-menu-label .line{
+    transform: rotate(45deg);
+    background-color: red;
+}
+
+#mobile-menu-checkbox:checked ~ .mobile-menu-label .line::after{
+    transform: rotate(90deg);
+    background-color: red;
+    top: 0;
+}
+
+#mobile-menu-checkbox:checked ~ .mobile-menu-label .line::before{
+    transform: rotate(-90deg);
+    top: 0;
+}
+
+#mobile-menu-checkbox:checked ~ .mobile-menu-label .square{
+    right: 30px;
+    top: 18px;
+    background-color: rgba(100, 40, 0, 0.3);
+}

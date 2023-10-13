@@ -1,0 +1,18 @@
+.paragraph-container{
+    max-width: fit-content;
+    margin: 15px;
+}
+
+.paragraph-container p{
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: text;
+    transition: 0.3s ease-in-out;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.paragraph-container p:hover{
+    background-color: blueviolet;
+    color: #fff;
+}
