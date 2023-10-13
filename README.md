@@ -5,7 +5,7 @@
 
 <h3>Tecnologias Utilizadas:</h3>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="40px"/></span>
-<span><link src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS logo" width="40px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React logo" width="40px"/></span>
 <span>Advice Slip JSON API</span>
