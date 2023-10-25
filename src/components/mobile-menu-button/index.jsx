@@ -1,4 +1,4 @@
-import "./mobile-menu-button.css"
+import "./index.css"
 
 const MobileMenuButton = () => {
     return(

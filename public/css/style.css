@@ -1,6 +1,0 @@
-body{
-    background: var(--color-gradiente) center center no-repeat;
-    background-size: cover;
-    min-height: 100vh;
-    padding: 50px 10px;
-}

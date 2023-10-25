@@ -1,6 +1,5 @@
-import './css/App.css';
-import { ParagraphsRender } from "./components/paragraphs/paragraphs";
-import { ButtonsRender } from './components/buttons/buttons';
+import { ParagraphsRender } from "./components/paragraphsRender";
+import { ButtonsRender } from "./components/buttonsRender";
 
 function App() {
   return (

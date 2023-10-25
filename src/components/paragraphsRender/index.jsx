@@ -1,5 +1,5 @@
-import { Paragraph } from "../paragraph/paragraph"
-import "./paragraphs.css"
+import { Paragraph } from "../paragraph"
+import "./index.css"
 
 const ParagraphsRender = () => {
     return (

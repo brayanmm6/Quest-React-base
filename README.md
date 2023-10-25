@@ -16,11 +16,11 @@
 <ul>
     <li><h3>Screenshots:</h3></li>
     <li><h4>Desktop:</h4></li>
-    <li><img src="./public/screenshots/desktop-1.png" alt="Desktop screensshot"></li>
-    <li><img src="./public/screenshots/desktop-animation.gif" alt="Desktop Gif"></li>
+    <li><img src="./public/assets/screenshots/desktop-1.png" alt="Desktop screensshot"></li>
+    <li><img src="./public/assets/screenshots/desktop-animation.gif" alt="Desktop Gif"></li>
     <li><h4>Mobile:</h4></li>
-    <li><img src="./public/screenshots/mobile.png" alt="Mobile screensshot"></li>
-    <li><img src="./public/screenshots/mobile-animation.gif" alt="Mobile Gif"></li>
+    <li><img src="./public/assets/screenshots/mobile.png" alt="Mobile screensshot"></li>
+    <li><img src="./public/assets/screenshots/mobile-animation.gif" alt="Mobile Gif"></li>
 </ul>
 
 <span>Espero que gostem 😊.</span>

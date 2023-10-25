@@ -1,4 +1,4 @@
-import "./paragraph.css"
+import "./index.css"
 import { getAdvices } from "../../services/advices/advices"
 
 const getAdvice = await getAdvices()
